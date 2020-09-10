@@ -10,7 +10,6 @@ using namespace std;
 
 int main()
 {
-	cout << "¦";
-	//ticTacToe game;
-	//game.startGame();
+	ticTacToe game;
+	game.startGame();
 }
